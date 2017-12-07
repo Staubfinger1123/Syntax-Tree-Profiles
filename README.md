@@ -2,25 +2,27 @@
 Reproduction of Tschuggnall, M., &amp; Specht, G. (2014, April): Enhancing Authorship Attribution By Utilizing Syntax Tree Profiles
 
 
+# Classification Results
 
 
+**set c (8 authors, 8 unknown documents)**
 
+| unknown id | predicted author | ground truth |
+| ---------- | ---------------- |------------- |
+| 1          |        5         |       6      |
+| 2          |        5         |       1      |
+| 3          |        1         |       5      |
+| 4          |        3         |       3      |
+| 5          |        7         |       7      |
+| 6          |        2         |       2      |
+|    7       |        5         |       8      |
+|    8       |        3         |       4      |
 
+**set a (3 authors, 6 unknown documents)**
+pending
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**set i (14 authors, 14 unknown documents)**
+pending
 
 
 # References
