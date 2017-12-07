@@ -18,6 +18,7 @@ Reproduction of Tschuggnall, M., &amp; Specht, G. (2014, April): Enhancing Autho
 |    7       |        5         |       8      |
 |    8       |        3         |       4      |
 
+
 **set a (3 authors, 6 unknown documents)**
 pending
 
