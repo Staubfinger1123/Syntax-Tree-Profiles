@@ -18,9 +18,21 @@ Reproduction of Tschuggnall, M., &amp; Specht, G. (2014, April): Enhancing Autho
 |    7       |        5         |       8      |
 |    8       |        3         |       4      |
 
+Baseline: 0.125, algorithm: 0.375
+
 
 **set a (3 authors, 6 unknown documents)**
-pending
+
+| unknown id |  predicted author| ground truth |
+| ---------- | ---------------- | ------------ |
+| 1          | 3                | 3            |
+| 2          | 1                | 2            |
+| 3          | 3                | 3            |
+| 4          | 1                |  1           |
+| 5          | 1                | 1            |
+| 6          | 2                | 2            |
+Baseline: 0.33, algorithm: 0.83
+
 
 **set i (14 authors, 14 unknown documents)**
 pending
