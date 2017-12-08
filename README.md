@@ -36,8 +36,23 @@ Baseline: 0.33, algorithm: 0.83
 
 
 **set i (14 authors, 14 unknown documents)**
-pending
 
+| unknown id | predicted author | ground truth |
+| ---------- | ---------------- |------------- |
+| 1          |                 |        14     |
+| 2          |                 |       13      |
+| 3          |                 |       4      |
+| 4          |                 |       10      |
+| 5          |                 |       1      |
+| 6          |                 |       6      |
+|    7       |                 |       5      |
+|    8       |                 |       7      |
+| 9          |                 |        12    |
+| 10         |                 |        11      |
+| 11         |                 |         8     |
+| 12         |                 |        9      |
+| 13         |                 |         2     |
+| 14         |                 |         3     |
 
 # References
 Augsten, N., Böhlen, M., & Gamper, J. (2010). The pq-gram distance between ordered labeled trees. ACM Transactions on Database Systems (TODS), 35(1), 4.
