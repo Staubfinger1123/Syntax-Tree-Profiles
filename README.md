@@ -31,6 +31,7 @@ Baseline: 0.125, algorithm: 0.375
 | 4          | 1                |  1           |
 | 5          | 1                | 1            |
 | 6          | 2                | 2            |
+
 Baseline: 0.33, algorithm: 0.83
 
 
