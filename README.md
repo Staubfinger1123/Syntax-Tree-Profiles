@@ -18,8 +18,6 @@ Reproduction of Tschuggnall, M., &amp; Specht, G. (2014, April): Enhancing Autho
 |    7       |        5         |       8      |
 |    8       |        3         |       4      |
 
-Baseline: 0.125, algorithm: 0.375
-
 
 **set a (3 authors, 6 unknown documents)**
 
@@ -32,8 +30,10 @@ Baseline: 0.125, algorithm: 0.375
 | 5          | 1                | 1            |
 | 6          | 2                | 2            |
 
-Baseline: 0.33, algorithm: 0.83
-
+Accuracy = 0.83333 (5/6)
+Macro-F1 = 0.86022
+Macro-Recall = 0.83333
+Macro-Precision = 0.88889
 
 **set i (14 authors, 14 unknown documents)**
 
