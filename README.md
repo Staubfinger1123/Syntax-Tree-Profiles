@@ -55,10 +55,10 @@ Macro-Precision = 0.88889
 | 14         |                 |         3     |
 
 **Classification on pan11 - large data set:**
-Accuracy = 0.05 (65/1300)
-Macro-F1 = 0.038743
-Macro-Recall = 0.044052
-Macro-Precision = 0.034577
+Accuracy = 0.053077 (69/1300)
+Macro-F1 = 0.044853
+Macro-Recall = 0.045639
+Macro-Precision = 0.044094
 
 
 # References
