@@ -54,6 +54,13 @@ Macro-Precision = 0.88889
 | 13         |                 |         2     |
 | 14         |                 |         3     |
 
+**Classification on pan11 - large data set:**
+Accuracy = 0.05 (65/1300)
+Macro-F1 = 0.038743
+Macro-Recall = 0.044052
+Macro-Precision = 0.034577
+
+
 # References
 Augsten, N., Böhlen, M., & Gamper, J. (2010). The pq-gram distance between ordered labeled trees. ACM Transactions on Database Systems (TODS), 35(1), 4.
 
