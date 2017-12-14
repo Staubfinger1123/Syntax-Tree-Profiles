@@ -60,6 +60,12 @@ Macro-F1 = 0.044853
 Macro-Recall = 0.045639
 Macro-Precision = 0.044094
 
+**Classification on C10*
+Accuracy = 0.262 (131/500)
+Macro-F1 = 0.25662
+Macro-Recall = 0.262
+Macro-Precision = 0.25145
+
 
 # References
 Augsten, N., Böhlen, M., & Gamper, J. (2010). The pq-gram distance between ordered labeled trees. ACM Transactions on Database Systems (TODS), 35(1), 4.
